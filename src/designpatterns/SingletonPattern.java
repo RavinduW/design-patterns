@@ -22,6 +22,8 @@ package designpatterns;
 
 //singleton pattern is used in multi threaded and database applications
 
+
+//this is the early instantiation of singleton class
 public class SingletonPattern {
     
     //defines the static member
